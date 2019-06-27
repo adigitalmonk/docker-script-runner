@@ -1,0 +1,5 @@
+**/node_modules
+*/**/*.pyc
+.git
+docker-compose.yml
+Dockerfile
